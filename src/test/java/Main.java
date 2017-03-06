@@ -8,6 +8,7 @@ public class Main {
 	public void test() {
 		System.out.println("Simple commit");
 		System.out.println("Simple commit");
+		System.out.println("Simple commit");
 		System.setProperty("webdriver.chrome.logfile", "target/chrome_output.txt");
 		System.setProperty("webdriver.chrome.args", "--disable-logging");
 		System.setProperty("webdriver.chrome.silentOutput", "true");
@@ -15,9 +16,7 @@ public class Main {
 	    WebDriver driver = new ChromeDriver();
 	    
 	    System.out.println("After get");
-	    
-	    driver.quit();
-	    
+	       
 	    System.out.println("After close");
 	}
 	
