@@ -14,6 +14,10 @@ public class Main {
 	       
 	    System.out.println("After close");
 	 System.out.println("After close git");
+	    System.out.println("After close");
+	    System.out.println("After close");
+	    System.out.println("After close");
+	    System.out.println("After close eclipse");
 	}
 	
 }
