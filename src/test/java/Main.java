@@ -13,6 +13,7 @@ public class Main {
 	    System.out.println("After get");
 	       
 	    System.out.println("After close");
+	 System.out.println("After close git");
 	}
 	
 }
